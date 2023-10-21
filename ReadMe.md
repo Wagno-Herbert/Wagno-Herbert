@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu ❤️ busco grandes desafios usando tecnologia.<br> sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um estudante  focado em desenvolvimento web.
+Eu ❤️ busco grandes desafios usando a tecnologia.<br> sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um estudante  focado em desenvolvimento na web.
 
 
 ## 🌐 Socials:
