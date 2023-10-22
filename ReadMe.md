@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu ❤️ busco grandes desafios usando a tecnologia.<br>  Apaixonado descobrir novas idéias e usá-las para criar soluções de alta qualidade. Hoje, sou um estudante, meu objetivo é continuar aprimorando minhas habilidades e conhecimentos na área de programação, buscando sempre as melhores soluções para os problemas dos clientes. Além disso, gosto de compartilhar minhas ideias e aprendizados com a comunidade de programadores, participando de grupos de discussão, eventos e cursos online. Estou sempre aberto a novas oportunidades e parcerias, por isso, sinta-se à vontade para entrar em contato comigo. Vamos conversar! 😊
+Eu ❤️ busco grandes desafios usando a tecnologia, apaixonado em descobrir novas idéias e usá-las para criar soluções de alta qualidade. Hoje, sou um estudante, meu objetivo é continuar aprimorando minhas habilidades e conhecimentos na área de programação, buscando sempre as melhores soluções para os problemas dos clientes. Além disso, gosto de compartilhar minhas ideias e aprendizados com a comunidade de programadores, participando de grupos de discussão, eventos e cursos online. Estou sempre aberto a novas oportunidades e parcerias, por isso, sinta-se à vontade para entrar em contato comigo. Vamos conversar! 😊
 
 
 ## 🌐 Socials:
