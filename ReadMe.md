@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Wagno 😁
 <div>
    <a href="https://github.com/Wagno-Herbert">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagno-Herbert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagno-Herbert&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagno-herbert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagno-herbert&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
