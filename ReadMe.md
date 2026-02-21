@@ -7,6 +7,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&center=true&lines=Wagno+Herbert;Analista+de+Dados;Estudante+ADS;Migra%C3%A7%C3%A3o+TI;Analytics+Apostas;Docker+%26+PowerShell" />
 </div>
+<div align="center">
+<img src="https://git-profile-readme-banner.vercel.app/api/data?username=Wagno-Herbert&txt=Data%20Analyst%20%7C%20ADS%20Student%20%7C%20S%C3%A3o%20Paulo" />
+</div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
  Apaixonado por tecnologia;
