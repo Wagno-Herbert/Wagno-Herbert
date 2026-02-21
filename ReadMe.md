@@ -16,9 +16,7 @@
  Apaixonado por tecnologia;
  Análise de dados e automações; 
  Transição de carreira pra IT;
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
-</div>
+
 
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=docker,powershell,python,git,github,linux)](https://skillicons.dev)
@@ -26,8 +24,7 @@
 
 ## 📊 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Wagno-Herbert&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wagno-Herbert&theme=dracula" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
 </div>
 
 ## 🐍 Snake Animation (seus commits!)
