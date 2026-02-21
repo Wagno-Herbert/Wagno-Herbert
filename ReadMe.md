@@ -6,7 +6,7 @@
 </div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
-Apaixonado por apostas esportivas, análise de dados e automações. Transição de carreira pra IT!
+Apaixonado por tecnologia, análise de dados e automações. Transição de carreira pra IT!
 
 ## 🛠️ Skills
 ![icons](https://skills.thijs.gg/icons?i=docker,powershell,excel,git,sql&theme=light)
