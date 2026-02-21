@@ -10,6 +10,9 @@
 <div align="center">
 <img src="https://git-profile-readme-banner.vercel.app/api/data?username=Wagno-Herbert&txt=Data%20Analyst%20%7C%20ADS%20Student%20%7C%20S%C3%A3o%20Paulo" />
 </div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
+</div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
  Apaixonado por tecnologia;
