@@ -10,7 +10,14 @@ Apaixonado por tecnologia, análise de dados e automações. Transição de carr
 
 
 ## 🛠️ Skills
+### 🧠 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+### 🛠 Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=docker,powershell,git,github,vscode)](https://skillicons.dev)
+
+### 📊 Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 ## 📊 Stats
 <div align="center">
