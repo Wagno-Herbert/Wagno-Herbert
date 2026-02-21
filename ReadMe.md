@@ -1,5 +1,5 @@
 
-# 👋 Olá, sou Wagno Herbert de Jesus Santana!
+# 👋 Olá, sou Wagno Herbert!
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Migrando+para+TI+%26+Data;Estudante+ADS;Vila+Buenos+Aires%2C+SP;Analytics+de+Apostas;Docker+%26+PowerShell" alt="typing" />
