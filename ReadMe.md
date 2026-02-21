@@ -13,9 +13,9 @@
 
 
 **Analista de Dados em formação | ADS | São Paulo**  
- Apaixonado por tecnologia;
- Análise de dados e automações; 
- Transição de carreira pra IT;
+** Apaixonado por tecnologia;**
+** Análise de dados e automações;** 
+** Transição de carreira pra IT;**
 
 
 ## 🛠️ Skills
@@ -27,8 +27,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
 </div>
 
-## 🐍 Snake Animation (seus commits!)
-![Snake](https://github.com/Wagno-Herbert/Wagno-Herbert/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🔥 Projetos
 - 📈 **Analytics Apostas** - Previsões odds futebol (em progresso)
