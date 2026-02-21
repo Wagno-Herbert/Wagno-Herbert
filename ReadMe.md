@@ -8,17 +8,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&center=true&lines=Wagno+Herbert;Analista+de+Dados;Estudante+ADS;Migra%C3%A7%C3%A3o+TI;Analytics+Apostas;Docker+%26+PowerShell" />
 </div>
 <div align="center">
-<img src="https://git-profile-readme-banner.vercel.app/api/data?username=Wagno-Herbert&txt=Data%20Analyst%20%7C%20ADS%20Student%20%7C%20S%C3%A3o%20Paulo" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF88&background=121212&center=true&vCenter=true&lines=01001010+01101001+01101110+00100000+01110100+01101000+01100101+%0A+01001101%0A+01100011%0A+01101111%0A+01100100%0A+01100101;Wagno-Herbert;Data+Analyst" />
 </div>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
-</div>
+
 
 **Analista de Dados em formação | ADS | São Paulo**  
  Apaixonado por tecnologia;
  Análise de dados e automações; 
  Transição de carreira pra IT;
-
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wagno-Herbert&theme=dracula" />
+</div>
 
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=docker,powershell,python,git,github,linux)](https://skillicons.dev)
