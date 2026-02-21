@@ -4,6 +4,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Migrando+para+TI+%26+Data;Estudante+ADS;Vila+Buenos+Aires%2C+SP;Analytics+de+Apostas;Docker+%26+PowerShell" alt="typing" />
 </div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&center=true&lines=Wagno+Herbert;Analista+de+Dados;Estudante+ADS;Migra%C3%A7%C3%A3o+TI;Analytics+Apostas;Docker+%26+PowerShell" />
+</div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
  Apaixonado por tecnologia;
