@@ -4,18 +4,11 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Migrando+para+TI+%26+Data;Estudante+ADS;Vila+Buenos+Aires%2C+SP;Analytics+de+Apostas;Docker+%26+PowerShell" alt="typing" />
 </div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&center=true&lines=Wagno+Herbert;Analista+de+Dados;Estudante+ADS;Migra%C3%A7%C3%A3o+TI;Analytics+Apostas;Docker+%26+PowerShell" />
-</div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF88&background=121212&center=true&vCenter=true&lines=01001010+01101001+01101110+00100000+01110100+01101000+01100101+%0A+01001101%0A+01100011%0A+01101111%0A+01100100%0A+01100101;Wagno-Herbert;Data+Analyst" />
-</div>
-
 
 **Analista de Dados em formação | ADS | São Paulo**  
-** Apaixonado por tecnologia;**
-** Análise de dados e automações;** 
-** Transição de carreira pra IT;**
+** Apaixonado por tecnologia;
+** Análise de dados e automações;
+** Transição de carreira pra IT;
 
 
 ## 🛠️ Skills
