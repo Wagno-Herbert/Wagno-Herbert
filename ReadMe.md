@@ -6,9 +6,9 @@
 </div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
-## Apaixonado por tecnologia;##
-** Análise de dados e automações;
-** Transição de carreira pra IT;
+ Apaixonado por tecnologia;
+ Análise de dados e automações;
+ Transição de carreira pra IT;
 
 
 ## 🛠️ Skills
