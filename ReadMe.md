@@ -6,18 +6,14 @@
 </div>
 
 **Analista de Dados em formação | ADS | São Paulo**  
-Apaixonado por tecnologia, análise de dados e automações. Transição de carreira pra IT!
+ Apaixonado por tecnologia;
+ Análise de dados e automações; 
+ Transição de carreira pra IT;
 
 
 ## 🛠️ Skills
-### 🧠 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,powershell,python,git,github,linux)](https://skillicons.dev)
 
-### 🛠 Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=docker,powershell,git,github,vscode)](https://skillicons.dev)
-
-### 📊 Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 ## 📊 Stats
 <div align="center">
